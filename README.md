@@ -7,4 +7,4 @@ name/student ID：
 蔡秉芸/1141415
 
 Repository description：
-CS203A資結 課程專屬Repository
+這個Repo是作為資料結構課程紀錄、以及存放作業與學習歷程的Living Document。
